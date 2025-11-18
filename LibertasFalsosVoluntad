@@ -11,8 +11,8 @@
         font-family: "Times New Roman", Times, serif;
         font-size: 28px;
         display: flex;
-        align-items: center;      /* vertical centering */
-        justify-content: flex-start; /* left align horizontally */
+        align-items: center;
+        justify-content: flex-start;
         padding-left: 8%;
         box-sizing: border-box;
       }
