@@ -1,16 +1,22 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title></title>
-<style>
-	body{
-		background: black;
-		color: white;
-		font-family: times new roman;
-		font size: 30px;
-}
-</style>
-</head>
-<body>
-La vida no es justa, para los pecadores ni para los santos. Yo no solo hago cumplir las reglas, yo las escribo. Quien se atreva a levantar la cabeza del prado conocerá el sufimiento y entonces la muerte. Los hilos de su destino penden de mis dedos. Mi voluntad es su libre albedrio. Cuando hablo, ustedes escuchan. Cuando ordene, ustedes obedecen. Yo construí el sendero por el cual caminan, así que sus pasos son mis pasos. No existe el futuro, no existe el pasado o el presente, solo yo. Teman mi ausencia, teman mi muerte, pues ya ha llegado. 
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>WHO ARE YOU</title>
+    <meta name="description" content="Short description of your site." />
+    <style>
+      body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Times New Roman; display:flex; align-items:left; justify-content:left; min-height:100vh; margin:0; background:#f7fafc; color:#0f172a; }
+      .card { text-align:left; padding:2rem; border-radius:12px; background:#fff; box-shadow:0 6px 18px rgba(2,6,23,0.08); max-width:720px; width:90%; }
+      a { color:#2563eb; text-decoration:none; }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <h1>Site at root is working</h1>
+      <p>If you see this page, your domain is serving an index.html from the site root.</p>
+      <p>Edit this file and replace this content with your website.</p>
+      <p><a href="/" aria-label="Reload">Reload</a></p>
+    </div>
+  </body>
+</html>
